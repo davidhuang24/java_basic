@@ -2,6 +2,7 @@ package com.leetcode.线性表合并;
 
 /**
  * 合并2个升序数组的变体
+ * T(n) = O(m+n), S(n) = O(1)
  */
 public class Solution0088 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
