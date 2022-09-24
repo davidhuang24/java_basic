@@ -1,4 +1,4 @@
-package com.leetcode.线性表合并;
+package com.leetcode.linkedlist.MergeList;
 
 /**
  * 合并2个升序数组的变体

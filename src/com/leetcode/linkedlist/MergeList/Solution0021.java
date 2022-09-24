@@ -1,4 +1,4 @@
-package com.leetcode.线性表合并;
+package com.leetcode.linkedlist.MergeList;
 
 import com.leetcode.common.ListNode;
 
